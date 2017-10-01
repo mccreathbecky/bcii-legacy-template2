@@ -1,0 +1,85 @@
+/*Index Page*/
+.navbar {
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+	border: 0px !important;
+	border-radius: 0px !important;
+	margin-bottom: 0px !important;
+	font-size: 1rem;
+	letter-spacing: 0.5rem;
+}
+
+.bg-pic {
+	background-color: #a9a9a9;
+	color: #ffffff;
+	text-align: center;
+}
+
+.bg-me {
+	background-color: #696969;
+	color: #ffffff;
+	text-align: center;
+}
+
+.bg-showcase {
+	background-color: #ffffff;
+	color: #555555;
+	text-align: center;
+}
+
+.container-fluid {
+	padding-top: 7rem;
+	padding-bottom: 7rem;
+}
+
+.img-circle
+{
+	height:350px;
+	width:350px;
+	/*max-width:100%; 
+	max-height:100%;*/
+	margin:auto;
+}
+
+.img-rounded {
+	margin:auto;
+	width:100%;
+}
+
+/*Project Page*/
+.bg-apples {
+	background-image: url("building.jpg");
+	height: 50%;
+	opacity: 0.65;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+body, html {
+	height: 100%;
+	margin: 0;
+	font-size:1.3rem;
+}
+
+.caption {
+	text-align: center;
+	padding-top: 25vh;
+}
+
+.caption span.border {
+	background-color: #333333;
+	color: #ffffff;
+	padding: 1.8rem;
+	/*font-size: 2.5rem;*/
+	letter-spacing: 1rem;
+}
+
+/*Helpers*/
+.margintop {
+	padding-top: 3rem;
+}
+
+.margin {
+	margin-bottom: 3rem;
+}
